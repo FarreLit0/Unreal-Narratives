@@ -1,0 +1,9 @@
+ 
+
+Here are the details:
+- TargetObject: Green_ball
+- Distance: 361.69
+- Relative Position: Actor is directly in front of the player.
+
+Write a short scene using these details in 50 tokens or less.
+The
